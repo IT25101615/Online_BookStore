@@ -1,0 +1,3 @@
+6bf5deca-75d8-482e-895e-d96be50f87af,nirmal,2004,nirmal@gmail.com,customer
+33b239d2-0054-43cb-aab5-d823b6a065d0,randika2,randika2004,randika2@gmail.com,customer
+ec70ddf6-9bde-42b2-bb1d-d76b019b1c76,thimira,2005,thimira@gmail.com,customer
