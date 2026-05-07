@@ -1,0 +1,9 @@
+b1|The Great Gatsby|F. Scott Fitzgerald|15.99|https://covers.openlibrary.org/b/id/7222246-L.jpg|Fiction|25
+b2|1984|George Orwell|12.99|https://covers.openlibrary.org/b/id/7222246-L.jpg|Fiction|30
+b4|The Catcher in the Rye|J.D. Salinger|10.0|https://covers.openlibrary.org/b/id/8231856-L.jpg|Fiction|15
+b5|Pride and Prejudice|Jane Austen|14.99|https://covers.openlibrary.org/b/id/12645114-L.jpg|Romance|18
+b6|The Notebook|Nicholas Sparks|11.99|https://covers.openlibrary.org/b/id/8160602-L.jpg|Romance|22
+b7|Sapiens|Yuval Noah Harari|19.99|https://covers.openlibrary.org/b/id/10520613-L.jpg|Non-Fiction|28
+b8|A Brief History of Time|Stephen Hawking|16.5|https://covers.openlibrary.org/b/id/8614930-L.jpg|Non-Fiction|12
+b9|The Art of War|Sun Tzu|8.99|https://covers.openlibrary.org/b/id/6944452-L.jpg|Historical|35
+1632bc5f-528d-4c64-b7f4-39e367f08e57|ssdfsf|F. Scott Fitzgerald|244.0|https://m.media-amazon.com/images/I/819cmf3BRKL._UF1000,1000_QL80_.jpg|Biography|1
