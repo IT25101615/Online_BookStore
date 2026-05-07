@@ -1,9 +1,5 @@
 package com.bookstore.model;
 
-/**
- * Base class for Books.
- * Demonstrates Inheritance when extended by PhysicalBook and DigitalBook.
- */
 public class Book extends BaseEntity {
     private String title;
     private String author;
