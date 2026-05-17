@@ -6,8 +6,18 @@ b6|The Notebook|Nicholas Sparks|11.99|https://covers.openlibrary.org/b/id/816060
 b7|Sapiens|Yuval Noah Harari|19.99|https://covers.openlibrary.org/b/id/10520613-L.jpg|Non-Fiction|6
 b8|A Brief History of Time|Stephen Hawking|16.5|https://covers.openlibrary.org/b/id/8614930-L.jpg|Non-Fiction|9
 b9|The Art of War|Sun Tzu|8.99|https://covers.openlibrary.org/b/id/6944452-L.jpg|Historical|5
-99799828-dde7-4fff-882f-19af96cbe8f8|Firstborn|Arthur C. Clarke|14.99|https://en.wikipedia.org/wiki/Firstborn_%28Clarke_and_Baxter_novel%29#/media/https://m.media-amazon.com/images/I/713rd-mMabL._AC_UF1000,1000_QL80_.jpg|Science Fiction|3
-54def879-f373-4ed4-a347-2ec8cbf5612c|2001: A Space Odyssey|Arthur C. Clarke|18.0|https://en.wikipedia.org/wiki/2001:_A_Space_Odyssey_%28novel%29#/media/covers.openlibrary.org/b/id/6944452-L.jpg|Science Fiction|4
+99799828-dde7-4fff-882f-19af96cbe8f8|Firstborn|Arthur C. Clarke|14.99|https://images-eu.ssl-images-amazon.com/images/I/61VO3GlRPyL._AC_UL600_SR600,600_.jpg|Science Fiction|3
+54def879-f373-4ed4-a347-2ec8cbf5612c|2001: A Space Odyssey|Arthur C. Clarke|18.0|https://m.media-amazon.com/images/I/61lJNV04+wL._AC_UF1000,1000_QL80_.jpg|Science Fiction|4
 17d1c2f8-19ee-4cb2-846f-8ca74addd1f2|Harry Potter and the Deathly Hallows|J. K. Rowling|17.0|https://m.media-amazon.com/images/I/91VsRHjTY-L._AC_UF1000,1000_QL80_.jpg|Science Fiction|2
 16d45ebd-445c-48c8-874a-acd2474704e8|Harry Potter and the Order of the Phoenix|J. K. Rowling|19.0|https://m.media-amazon.com/images/I/81BXnTqH7-L._AC_UF1000,1000_QL80_.jpg|Science Fiction|3
+39250437-eba3-4897-b01c-e2a60cade6c3|The Outsider|Stephen King|15.45|https://m.media-amazon.com/images/I/A139a4XqFFL._AC_UF1000,1000_QL80_.jpg|Mystery|3
+e93a7963-0f6c-4fca-a35c-1f818b05f4c4|The Running Man|Stephen King|17.69|https://m.media-amazon.com/images/I/81DEn6Y62hL._AC_UF1000,1000_QL80_.jpg|Thriller|5
+a056b60d-43fe-44fc-a0c6-640e32a92419|Loveena|Mohan Raj Madawala|12.96|https://cms.sarasavi.lk/storage/product/9554690010.jpg|Fiction|7
+fa4a48dc-d022-43fb-933d-9780405a68ff|Colombo|Mohan Raj Madawala|14.0|https://rasakatha.lk/wp-content/uploads/2024/02/IMG_20220602_174003-scaled-1.jpg|Non-Fiction|5
+caee421a-dfe9-42ea-93a1-8309bd4d8f28|අපේ ගම|Martin Wickramasinghe|10.14|https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1482131677i/3240508.jpg|Non-Fiction|7
+b20dd2fd-3c6a-4ad8-981f-f02a7ab93764|Madol Doova|Martin Wickramasinghe|12.33|https://upload.wikimedia.org/wikipedia/en/5/5c/MadolDoova.jpg|Non-Fiction|6
+6730aa2b-6be6-4937-a2db-0fe94b7c8b0d|කලියුගය|Martin Wickramasinghe|14.0|https://m.media-amazon.com/images/S/compressed.photo.goodreads.com/books/1298552152l/10422852.jpg|Thriller|5
+537e6e1e-8497-4309-996e-aa9d1f8272be|Destiny|Martin Wickramasinghe|15.0|https://www.kbooks.lk/image/cache/catalog/sarasa/destiny_martin_wickramasinghe-500x500.jpg|Non-Fiction|4
+2bb0fccd-f334-4f53-af1a-223af3bb0dfc|Rama II|Arthur C. Clarke|17.0|https://covers.openlibrary.org/b/id/6720125-L.jpg|Historical|3
+
 
