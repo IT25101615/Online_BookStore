@@ -1,0 +1,7 @@
+a1,George Orwell,Author of 1984.,Dystopian,REGULAR
+a2,F. Scott Fitzgerald,Author of The Great Gatsby.,Classic,REGULAR
+489aac82-4db1-4e15-a737-78106dd082d5,Martin Wickramasinghe,Lama Hewage Don Martin Wickramasinghe, MBE was a Sri Lankan journalist and author. His books have been translated into several different languages. Martin Wickramasinghe is often acclaimed as the father of modern Sinhala literature.,REGULAR
+4cd013e7-429d-4cf1-af4f-f54f4e4ac6f7,Mohan Raj Madawala,Mohan Raj Madawala is a contemporary Sri Lankan author known for his popular, often romantic and historical,REGULAR
+59060f0a-68d8-4539-a9ed-501f9cf7d0ef,Arthur C. Clarke,Sir Arthur Charles Clarke CBE FRAS was an English science fiction writer, science writer,REGULAR
+338e3176-2695-4051-a2f6-9189dd727bfc,J. K. Rowling,Joanne Rowling, better known by her pen name J. K. Rowling,REGULAR
+e6f8a2a0-2ab2-4ed9-94c6-effeac042f9c,Stephen King,Stephen Edwin King is an American author. Dubbed the "King of Horror", he is widely known for his horror fiction and has also explored other genres, among them suspense, crime, science-fiction, fantasy, and mystery.,Horror,REGULAR
