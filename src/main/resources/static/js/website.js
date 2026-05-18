@@ -163,6 +163,7 @@ document.addEventListener('DOMContentLoaded', () => {
             await api('/api/orders', 'POST', orderData);
             cart = [];
             saveLocal();
+            e.target.reset();
             showToast('Payment Successful! Order placed.');
             navigate('profile');
             loadProfileOrders();
